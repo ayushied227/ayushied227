@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayushie
 - 👀 I’m interested in money
-- 🌱 I’m currently learning clarity
-- 💞️ I’m looking to collaborate on blockchain development
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on web app development
 - 📫 How to reach me ...email :)
 
 <!---
