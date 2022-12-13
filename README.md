@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning django, angular
 - 💞️ I’m looking to collaborate on web app development
 - 📫 How to reach me ...email :)
+- https://ayushied227.github.io/portfolio/ 
 
 <!---
 ayushied227/ayushied227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
